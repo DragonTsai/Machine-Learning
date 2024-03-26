@@ -2,7 +2,7 @@
 - This coursework entails implementing a classifier to control Pacman's movements in the classic game. While the classifier may not significantly improve Pacman's performance, the objective is to develop and utilize it effectively.
 # Getting Started 
 - Pacman Setup: Obtain the Pacman code from the provided link and ensure it runs on Python 3.
-- Control Pacman: Use the provided Pacman code to control Pacman's movements using various agents, including RandomAgent and RandomishAgent.
+- Control Pacman: Use the provided Pacman code to control Pacman's movements using various agents, including RandomAgent.
 # Classifier Implementation
 - Utilize the skeleton code provided in pacman-cw1/classifier.py to develop your classifier.
 - Modify only classifier.py and adhere strictly to the provided skeleton.
